@@ -61,11 +61,10 @@ Also, if we do it as a team, the fun is even better😉
 
 ## Proyectos destacados 🚀
 
-- [Portafolio personal 👩🏻‍💻💼](https://github.com/BarbaraCarvajal/portafolio-barbara-carvajal)
-- [CatCoin😼💰](https://github.com/BarbaraCarvajal/CatCoin) 
-- [MiauFlix🐈🍿](https://github.com/BarbaraCarvajal/MiauFlix)
-- [Mokita Shop🐱‍💻🎮](https://github.com/BarbaraCarvajal/e-commerce)
-- [Peluquería Mascotas🐶🐱✂️ ](https://github.com/BarbaraCarvajal/peluqueria-mascotas)
+- [GreenScreen🎬🍿](https://github.com/MoviesPf/MoviesFront)
+- [Countries✈🌍](https://github.com/Dannagoni/Proyecto-Individual-Henry-Countries)
+- [RickandMorty🛸🧪](https://github.com/MoviesPf/MoviesFront)
+
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
