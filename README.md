@@ -3,7 +3,7 @@
 ## About me
 I'm a Full Stack Developer who enjoys the path of constant learning! Each project is a new challenge and I'm ready to work on it!
 Also, if we do it as a team, the fun is even better😉
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I started my developer career at soyHenry's bootcamp
 
 - 💬 Ask me about **Javascript, React, Redux, Node.js, Express**
 
