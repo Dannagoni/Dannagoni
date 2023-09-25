@@ -1,10 +1,15 @@
-<h1 align="center">Hi 👋, I'm Danna Goñi</h1>
+<h1 align="center">Hi 👋, I'm Danna Goñi 🙋🏻‍♀️</h1>
 
+## About me
+I'm a Full Stack Developer who enjoys the path of constant learning! Each project is a new challenge and I'm ready to work on it!
+Also, if we do it as a team, the fun is even better😉
 - 🌱 I’m currently learning **Typescript**
 
 - 💬 Ask me about **Javascript, React, Redux, Node.js, Express**
 
 - 📫 How to reach me **dannagonim@gmail.com**
+
+## Languages and Tools:
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -53,6 +58,14 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   </a>
 </p>
+
+## Proyectos destacados 🚀
+
+- [Portafolio personal 👩🏻‍💻💼](https://github.com/BarbaraCarvajal/portafolio-barbara-carvajal)
+- [CatCoin😼💰](https://github.com/BarbaraCarvajal/CatCoin) 
+- [MiauFlix🐈🍿](https://github.com/BarbaraCarvajal/MiauFlix)
+- [Mokita Shop🐱‍💻🎮](https://github.com/BarbaraCarvajal/e-commerce)
+- [Peluquería Mascotas🐶🐱✂️ ](https://github.com/BarbaraCarvajal/peluqueria-mascotas)
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
