@@ -68,9 +68,8 @@ Also, if we do it as a team, the fun is even better😉
 </p>
 
 ## Connect with me:
-<div align= "center"> 
+<div> 
   <a href="https://www.linkedin.com/in/danna-go%C3%B1i-6aa163274/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:dannagonim@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "mailto:dannagonim@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
