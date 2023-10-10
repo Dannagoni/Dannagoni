@@ -16,8 +16,6 @@ Also, if we do it as a team, the fun is even better😉
 
 - 💬 Ask me about **Javascript, React, Redux, Node.js, Express**
 
-- 📫 How to reach me **dannagonim@gmail.com**
-
 ## Languages and Tools:
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
