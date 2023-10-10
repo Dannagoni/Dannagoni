@@ -67,8 +67,7 @@ Also, if we do it as a team, the fun is even better😉
 - [Countries✈🌍](https://github.com/Dannagoni/Proyecto-Individual-Countries)
 - [RickandMorty🛸🧪](https://github.com/Dannagoni/Rick_and_Morty_Proyect)
 - - [GreenScreen🎬🍿](https://github.com/MoviesPf)
-- [Countries✈🌍](https://github.com/Dannagoni/Proyecto-Individual-Countries)
-- [RickandMorty🛸🧪](https://github.com/Dannagoni/Rick_and_Morty_Proyect)
+
 
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
