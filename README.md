@@ -9,9 +9,6 @@ Also, if we do it as a team, the fun is even better😉
 
 - 📫 How to reach me **dannagonim@gmail.com**
 
-## About me
-
-
 - 💬 Ask me about **Javascript, React, Redux, Node.js, Express**
 
 ## Languages and Tools:
