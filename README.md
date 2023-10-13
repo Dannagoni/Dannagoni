@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Danna Goñi 🙋🏻‍♀️</h1
+<h1 align="center">Hi 👋, I'm Danna Goñi 🙋🏻‍♀️</h1>
 
 ## About me
 I'm a Full Stack Developer who enjoys the path of constant learning! Each project is a new challenge and I'm ready to work on it!
