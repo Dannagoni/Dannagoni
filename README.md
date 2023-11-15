@@ -9,6 +9,8 @@ Also, if we do it as a team, the fun is even better😉
 
 - 📫 How to reach me **dannagonim@gmail.com**
 
+- 📫 I'm learning **TypeScript**
+
 
 ## Languages and Tools:
 <p align="left">
