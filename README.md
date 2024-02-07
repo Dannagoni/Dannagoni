@@ -5,7 +5,7 @@ I'm a Full Stack Developer who enjoys the path of constant learning! Each projec
 Also, if we do it as a team, the fun is even better😉
 - 🌱 I started my developer career at soyHenry's bootcamp
 
-- 💬 Ask me about **Javascript, React, Redux, Node.js, Express**
+- 💬 Ask me about **Javascript, React, Redux, Node.js, Express, MongoDB, etc**
 
 - 📫 How to reach me **dannagonim@gmail.com**
 
