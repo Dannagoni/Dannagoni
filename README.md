@@ -81,7 +81,6 @@ Also, if we do it as a team, the fun is even better😉
 ## Proyectos destacados 🚀
 
 - [GreenScreen🎬🍿](https://github.com/MoviesPf)
-- [FakeStoreApi](https://github.com/Dannagoni/FakeStoreApiRest)
 - [Countries✈🌍](https://github.com/Dannagoni/Proyecto-Individual-Countries)
 - [RickandMorty🛸🧪](https://github.com/Dannagoni/Rick_and_Morty_Proyect)
 
