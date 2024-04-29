@@ -82,7 +82,7 @@ Also, if we do it as a team, the fun is even better😉
 
 - [GreenScreen🎬🍿](https://github.com/MoviesPf)
 - [Countries✈🌍](https://github.com/Dannagoni/Proyecto-Individual-Countries)
-- [Airbnb clone]([https://github.com/Dannagoni/Rick_and_Morty_Proyect](https://airbnbclone-s2z5.vercel.app/))
+- [Airbnb clone 🏘️](https://airbnbclone-s2z5.vercel.app/)
 
 
 <p align="center">
