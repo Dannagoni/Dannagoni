@@ -9,7 +9,7 @@ Also, if we do it as a team, the fun is even better😉
 
 - 📫 How to reach me **dannagonim@gmail.com**
 
-- 📖 I'm learning **AWS**
+- 📖 I'm learning **AWS and Next.js**
 
 
 ## Languages and Tools:
@@ -78,7 +78,7 @@ Also, if we do it as a team, the fun is even better😉
   </a>
 </p>
 
-## Algunos Proyectos 🚀
+## Some Proyects 🚀
 
 - [GreenScreen🎬🍿](https://github.com/MoviesPf)
 - [Airbnb clone 🏘️](https://airbnbclone-s2z5.vercel.app/)
