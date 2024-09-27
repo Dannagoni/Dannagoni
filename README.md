@@ -80,13 +80,6 @@ Also, if we do it as a team, the fun is even better😉
   </a>
 </p>
 
-## Some Proyects 🚀
-
-- [GreenScreen🎬🍿](https://github.com/MoviesPf)
-- [Airbnb clone 🏘️](https://airbnbclone-s2z5.vercel.app/)
-- [Countries✈🌍](https://github.com/Dannagoni/Proyecto-Individual-Countries)
-
-
 
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
