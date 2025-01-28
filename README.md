@@ -80,12 +80,6 @@ Also, if we do it as a team, the fun is even better😉
   </a>
 </p>
 
-
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
-</p>
-
 ## Connect with me:
 <div> 
   <a href="https://www.linkedin.com/in/danna-go%C3%B1i-6aa163274/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
